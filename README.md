@@ -35,5 +35,5 @@ Currently focused on building robust, scalable, and efficient web applications u
 Feel free to reach out for collaborations, ideas, or just a friendly tech chat!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yashagrawal0410/)  
-- 💼 [Portfolio Website](https://www.yashag.tech/) 
+- 💼 [yashag.tech](https://www.yashag.tech/) 
 - 📧 info@yashag.tech
