@@ -36,4 +36,4 @@ Feel free to reach out for collaborations, ideas, or just a friendly tech chat!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yashagrawal0410/)  
 - 💼 [Portfolio Website](https://www.yashag.tech/) 
-- 📧 yashagrawaltech24@gmail.com 
+- 📧 info@yashag.tech
